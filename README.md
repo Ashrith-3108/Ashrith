@@ -38,15 +38,16 @@ Welcome to my GitHub profile! I'm a passionate and versatile developer, public s
 - **Languages:**
   - English (Fluent)
   - Hindi (Proficient - Spoken)
+  - Telugu (Mother Tongue) 
 
 ## 🌟 Projects
 ### [FindYourSpot](https://github.com/Ashrith-3108/FindYourSpot)
 A repository showcasing one of my latest projects. Feel free to explore the code and contribute!
 
 ## 💬 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/your-link)  
+- [LinkedIn](https://www.linkedin.com/in/vavillapally-ashrith-9823482a1)  
 - [Portfolio Website](https://your-portfolio-link.com)  
-- [Email](mailto:your-email@example.com)
+- [Email](mailto:vavillapallyashrith@gmail.com)
 
 I'm always open to collaborations, mentorship, and discussions about exciting ideas. Let's innovate together! 😊
 
